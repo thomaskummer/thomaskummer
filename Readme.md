@@ -2,11 +2,11 @@
 
 ## About me
 I have been working scientifically on the following topics regarding the human heart: 🫀
-- A computational heart modeling framework in C++ based on the parallel finite element libraray LifeV. The comprehensive computational framework includes models for the sophisticated anistropic tissue mechanics of the left and right ventricles, the electrical signal propagation through the heart, the muscle activation and for the blood flow. It is published in [Embedded Computational Heart Model for External Ventricular Assist Device Investigations]([https://pages.github.com/](https://link.springer.com/article/10.1007/s13239-022-00610-w).
+- A computational heart modeling framework in C++ based on the parallel finite element libraray LifeV. The comprehensive computational framework includes models for the sophisticated anistropic tissue mechanics of the left and right ventricles, the electrical signal propagation through the heart, the muscle activation and for the blood flow. It is published in [Embedded Computational Heart Model for External Ventricular Assist Device Investigations](https://link.springer.com/article/10.1007/s13239-022-00610-w).
 - Computational investication and optimization of cardiac assist devices, particularly external cardiac contractors for emergency situations.
 - Design of an actual prototype and initial testing. Microcontrollers have primarily been programmed in C++ and data visualization in Python.
 
-A complete overview can be found in my doctoral thesis [Cardiac Assist Devices for Emergency Situations: From Computational Heart Modeling to Prototype Design and Initial Testing](https://doi.org/10.3929/ethz-b-000716695)
+A complete overview can be found in my doctoral thesis: [Cardiac Assist Devices for Emergency Situations: From Computational Heart Modeling to Prototype Design and Initial Testing](https://doi.org/10.3929/ethz-b-000716695).
 
 ## Bio
 - Dr. sc. ETH Zurich @ethz
