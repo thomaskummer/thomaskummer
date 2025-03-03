@@ -8,15 +8,16 @@ I have been working scientifically on the following topics regarding the human h
 
 A complete overview can be found in my doctoral thesis: [Cardiac Assist Devices for Emergency Situations: From Computational Heart Modeling to Prototype Design and Initial Testing](https://doi.org/10.3929/ethz-b-000716695).
 
-## Bio
-- Dr. sc. ETH Zurich @ethz
-- MSc ME ETH Zurich @ethz
+## Bio overview
+- Dr. sc. ETH Zurich @ETHZ
+- MSc ME ETH Zurich @ETHZ
 - BSc ME ZFH Winterthur
 
-## Programming languages
+## Programming languages used in the computational framework
 - C++
 - Python
 - Bash
+- Fortran (only little)
 
 <!--
 Link to the sample section: [Link Text](#sample-section).
