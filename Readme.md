@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile
 
 ## About me
-I have been working scientifically on the following topics related to the human heart: 🫀
+I have been working scientifically on the following topics regarding the human heart: 🫀
 - A computational heart modeling framework in C++ based on the parallel finite element libraray LifeV. The comprehensive computational framework includes models for the sophisticated anistropic tissue mechanics of the left and right ventricles, the electrical signal propagation through the heart, the muscle activation and for the blood flow.
 - Computational investication and optimization of cardiac assist devices, particularly external cardiac contractors for emergency situations.
 - Design of an actual prototype and initial testing. Microcontrollers have primarily been programmed in C++ and data visualization in Python.
